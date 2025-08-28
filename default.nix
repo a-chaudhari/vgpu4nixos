@@ -87,8 +87,8 @@ let
       zipFilename = "NVIDIA-GRID-Linux-KVM-570.124.03-570.124.06-572.60.zip";
       mkVgpuPatcher {
         version = "570.124";
-        # rev = "refs/head/570.124";
-        # sha256 = "sha256-TyZkZcv7RI40U8czvcE/kIagpUFS/EJhVN0SYPzdNJM=";
+        rev = "refs/head/570.124";
+        sha256 = "sha256-TyZkZcv7RI40U8czvcE/kIagpUFS/EJhVN0SYPzdNJM=";
         generalVersion = "570.124.06";
         generalSha256 = "sha256-9oB0Xp5JYxWrYev+u61xqCZ0WiKaELf8GY2stEc0nOY=";
         linuxGuest = "570.124.06";
