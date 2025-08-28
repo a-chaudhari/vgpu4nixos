@@ -90,7 +90,7 @@ let
         rev = "refs/head/570.124";
         sha256 = "sha256-TyZkZcv7RI40U8czvcE/kIagpUFS/EJhVN0SYPzdNJM=";
         generalVersion = "570.124.04";
-        generalSha256 = "sha256-9oB0Xp5JYxWrYev+u61xqCZ0WiKaELf8GY2stEc0nOY=";
+        generalSha256 = "sha256-G3hqS3Ei18QhbFiuQAdoik93jBlsFI2RkWOBXuENU8Q=";
         linuxGuest = "570.124.06";
         linuxSha256 = "sha256-zqLM9cICZvSnTSWyvn8VMga6nTEQ0KiZqe9mFWIzKJU=";
         windowsGuestFilename = "572.60_grid_win10_win11_server2019_server2022_dch_64bit_international.exe";
