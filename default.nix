@@ -88,7 +88,7 @@ let
       vgpuPatcher = mkVgpuPatcher {
         version = "570.124";
         rev = "refs/head/570.124";
-        sha256 = "sha256-TyZkZcv7RI40U8czvcE/kIagpUFS/EJhVN0SYPzdNJM=";
+        sha256 = "sha256-TyZkZcv7RI40U8czvcE/kIagpUFS/EJhVN0SYPzdNJ9=";
         generalVersion = "570.124.04";
         generalSha256 = "sha256-G3hqS3Ei18QhbFiuQAdoik93jBlsFI2RkWOBXuENU8Q=";
         linuxGuest = "570.124.06";
