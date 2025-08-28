@@ -85,7 +85,7 @@ let
       usePersistenced = false;
       gridVersion = "18.0";
       zipFilename = "NVIDIA-GRID-Linux-KVM-570.124.03-570.124.06-572.60.zip";
-      mkVgpuPatcher {
+      mkVgpuPatcher = {
         version = "570.124";
         rev = "refs/head/570.124";
         sha256 = "sha256-TyZkZcv7RI40U8czvcE/kIagpUFS/EJhVN0SYPzdNJM=";
